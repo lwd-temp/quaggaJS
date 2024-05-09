@@ -46,7 +46,7 @@
     "grunt-contrib-nodeunit": "^0.4.1",
     "grunt-karma": "^2.0.0",
     "isparta-loader": "^2.0.0",
-    "karma": "^1.3.0",
+    "karma": "^6.4.3",
     "karma-chai": "0.1.0",
     "karma-chrome-launcher": "^2.0.0",
     "karma-coverage": "^1.1.1",
